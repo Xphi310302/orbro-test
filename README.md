@@ -81,7 +81,7 @@ npm run dev
 
 ## Database
 
-The application uses SQLite as its database. The database file is created automatically when the application starts.
+The application uses SQLite as its database. The database file `jobs.db` is created automatically when the application starts.
 
 ## File Storage
 
