@@ -17,7 +17,7 @@ git clone https://github.com/Xphi310302/orbro-test.git
 cd orbro-test
 
 # Start the application
-docker-compose up --build
+docker compose up --build
 ```
 
 The application will be available at:
